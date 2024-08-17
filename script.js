@@ -4,7 +4,7 @@ var fft
 var particles = []
 
 function preload() {
-  song = loadSound('glossy.mp3')
+  song = loadSound('Intruxx.mp3')
 }
 function setup() {
   createCanvas(windowWidth, windowHeight);
